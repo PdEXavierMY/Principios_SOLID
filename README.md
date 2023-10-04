@@ -44,5 +44,4 @@ class Lanzador:
 
 Y el UML del ejercicio es:
 
-![uml matriz](https://github.com/Xavitheforce/Principios_SOLID/assets/91721699/35d6a9da-1640-4da9-a6d7-4bada991638e)
-
+![image](https://github.com/Xavitheforce/Principios_SOLID/assets/91721699/358f058f-2e70-41af-8c39-8d3ef3741a94)
