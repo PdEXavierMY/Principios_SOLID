@@ -41,3 +41,8 @@ class Lanzador:
         imprimir_transpuesta = Imprimir(transpuesta_result)
         imprimir_transpuesta.imprimir()
 ```
+
+Y el UML del ejercicio es:
+
+![uml matriz](https://github.com/Xavitheforce/Principios_SOLID/assets/91721699/35d6a9da-1640-4da9-a6d7-4bada991638e)
+
